@@ -1,0 +1,5 @@
+Debug/
+*.mk
+*.user
+HdlEngine.txt
+*.usr.*
